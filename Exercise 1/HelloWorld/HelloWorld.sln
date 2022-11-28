@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPlayersGuide5thEdition", "CSharpPlayersGuide5thEdition\CSharpPlayersGuide5thEdition.csproj", "{223633E7-9BED-4D1C-B9CF-590300975F78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld.csproj", "{033AF27E-32EF-44BE-A6BC-AE4F9C4B55B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{223633E7-9BED-4D1C-B9CF-590300975F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{223633E7-9BED-4D1C-B9CF-590300975F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{223633E7-9BED-4D1C-B9CF-590300975F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{223633E7-9BED-4D1C-B9CF-590300975F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{033AF27E-32EF-44BE-A6BC-AE4F9C4B55B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033AF27E-32EF-44BE-A6BC-AE4F9C4B55B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033AF27E-32EF-44BE-A6BC-AE4F9C4B55B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033AF27E-32EF-44BE-A6BC-AE4F9C4B55B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4960E6DC-3F39-4DFE-96BD-93358902E927}
+		SolutionGuid = {46EB34AC-9788-4AFC-BBEF-FC431EF27805}
 	EndGlobalSection
 EndGlobal
