@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheVariableShop\bin\Debug\net6.0\TheVariableShop.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheVariableShop\bin\Debug\net6.0\TheVariableShop.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheVariableShop\bin\Debug\net6.0\TheVariableShop.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheVariableShop\bin\Debug\net6.0\TheVariableShop.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheVariableShop\bin\Debug\net6.0\TheVariableShop.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheVariableShop\obj\Debug\net6.0\TheVariableShop.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheVariableShop\obj\Debug\net6.0\TheVariableShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheVariableShop\obj\Debug\net6.0\TheVariableShop.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheVariableShop\obj\Debug\net6.0\TheVariableShop.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheVariableShop\obj\Debug\net6.0\TheVariableShop.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheVariableShop\obj\Debug\net6.0\TheVariableShop.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheVariableShop\obj\Debug\net6.0\refint\TheVariableShop.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheVariableShop\obj\Debug\net6.0\TheVariableShop.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheVariableShop\obj\Debug\net6.0\TheVariableShop.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheVariableShop\obj\Debug\net6.0\ref\TheVariableShop.dll
