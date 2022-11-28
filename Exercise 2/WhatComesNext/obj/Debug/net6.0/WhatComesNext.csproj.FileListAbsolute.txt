@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 2\WhatComesNext\bin\Debug\net6.0\WhatComesNext.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 2\WhatComesNext\bin\Debug\net6.0\WhatComesNext.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 2\WhatComesNext\bin\Debug\net6.0\WhatComesNext.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 2\WhatComesNext\bin\Debug\net6.0\WhatComesNext.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 2\WhatComesNext\bin\Debug\net6.0\WhatComesNext.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 2\WhatComesNext\obj\Debug\net6.0\WhatComesNext.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 2\WhatComesNext\obj\Debug\net6.0\WhatComesNext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 2\WhatComesNext\obj\Debug\net6.0\WhatComesNext.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 2\WhatComesNext\obj\Debug\net6.0\WhatComesNext.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 2\WhatComesNext\obj\Debug\net6.0\WhatComesNext.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 2\WhatComesNext\obj\Debug\net6.0\WhatComesNext.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 2\WhatComesNext\obj\Debug\net6.0\refint\WhatComesNext.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 2\WhatComesNext\obj\Debug\net6.0\WhatComesNext.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 2\WhatComesNext\obj\Debug\net6.0\WhatComesNext.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 2\WhatComesNext\obj\Debug\net6.0\ref\WhatComesNext.dll
