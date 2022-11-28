@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise 5\\TheVariableShop\\TheVariableShop.csproj",
+      "projectUniqueName": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise 6\\TheVariableShop\\TheVariableShop.csproj",
       "projectName": "TheVariableShop",
-      "projectPath": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise 5\\TheVariableShop\\TheVariableShop.csproj",
+      "projectPath": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise 6\\TheVariableShop\\TheVariableShop.csproj",
       "packagesPath": "C:\\Users\\Joel Warren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise 5\\TheVariableShop\\obj\\",
+      "outputPath": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise 6\\TheVariableShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Joel Warren\\AppData\\Roaming\\NuGet\\NuGet.Config",
