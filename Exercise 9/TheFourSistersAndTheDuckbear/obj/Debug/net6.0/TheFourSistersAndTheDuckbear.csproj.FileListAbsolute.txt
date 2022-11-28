@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 9\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 9\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 9\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 9\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 9\TheFourSistersAndTheDuckbear\bin\Debug\net6.0\TheFourSistersAndTheDuckbear.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 9\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 9\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 9\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 9\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 9\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 9\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 9\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\refint\TheFourSistersAndTheDuckbear.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 9\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 9\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\TheFourSistersAndTheDuckbear.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 9\TheFourSistersAndTheDuckbear\obj\Debug\net6.0\ref\TheFourSistersAndTheDuckbear.dll
