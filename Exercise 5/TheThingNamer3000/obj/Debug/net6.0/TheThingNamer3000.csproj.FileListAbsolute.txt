@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheThingNamer3000\bin\Debug\net6.0\TheThingNamer3000.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheThingNamer3000\bin\Debug\net6.0\TheThingNamer3000.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheThingNamer3000\bin\Debug\net6.0\TheThingNamer3000.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheThingNamer3000\bin\Debug\net6.0\TheThingNamer3000.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheThingNamer3000\bin\Debug\net6.0\TheThingNamer3000.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheThingNamer3000\obj\Debug\net6.0\refint\TheThingNamer3000.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheThingNamer3000\obj\Debug\net6.0\TheThingNamer3000.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 5\TheThingNamer3000\obj\Debug\net6.0\ref\TheThingNamer3000.dll
