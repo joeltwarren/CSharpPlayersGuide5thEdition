@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 3\TheMakingsOfAProgrammer\bin\Debug\net6.0\TheMakingsOfAProgrammer.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 3\TheMakingsOfAProgrammer\bin\Debug\net6.0\TheMakingsOfAProgrammer.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 3\TheMakingsOfAProgrammer\bin\Debug\net6.0\TheMakingsOfAProgrammer.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 3\TheMakingsOfAProgrammer\bin\Debug\net6.0\TheMakingsOfAProgrammer.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 3\TheMakingsOfAProgrammer\bin\Debug\net6.0\TheMakingsOfAProgrammer.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 3\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 3\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 3\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 3\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 3\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 3\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 3\TheMakingsOfAProgrammer\obj\Debug\net6.0\refint\TheMakingsOfAProgrammer.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 3\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 3\TheMakingsOfAProgrammer\obj\Debug\net6.0\TheMakingsOfAProgrammer.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise 3\TheMakingsOfAProgrammer\obj\Debug\net6.0\ref\TheMakingsOfAProgrammer.dll
