@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise13\BuyingInventory\bin\Debug\net6.0\BuyingInventory.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise13\BuyingInventory\bin\Debug\net6.0\BuyingInventory.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise13\BuyingInventory\bin\Debug\net6.0\BuyingInventory.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise13\BuyingInventory\bin\Debug\net6.0\BuyingInventory.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise13\BuyingInventory\bin\Debug\net6.0\BuyingInventory.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise13\BuyingInventory\obj\Debug\net6.0\BuyingInventory.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise13\BuyingInventory\obj\Debug\net6.0\BuyingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise13\BuyingInventory\obj\Debug\net6.0\BuyingInventory.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise13\BuyingInventory\obj\Debug\net6.0\BuyingInventory.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise13\BuyingInventory\obj\Debug\net6.0\BuyingInventory.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise13\BuyingInventory\obj\Debug\net6.0\BuyingInventory.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise13\BuyingInventory\obj\Debug\net6.0\refint\BuyingInventory.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise13\BuyingInventory\obj\Debug\net6.0\BuyingInventory.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise13\BuyingInventory\obj\Debug\net6.0\BuyingInventory.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise13\BuyingInventory\obj\Debug\net6.0\ref\BuyingInventory.dll
