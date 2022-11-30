@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise14\DiscountedInventory\bin\Debug\net6.0\DiscountedInventory.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise14\DiscountedInventory\bin\Debug\net6.0\DiscountedInventory.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise14\DiscountedInventory\bin\Debug\net6.0\DiscountedInventory.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise14\DiscountedInventory\bin\Debug\net6.0\DiscountedInventory.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise14\DiscountedInventory\bin\Debug\net6.0\DiscountedInventory.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise14\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise14\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise14\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise14\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise14\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise14\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise14\DiscountedInventory\obj\Debug\net6.0\refint\DiscountedInventory.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise14\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise14\DiscountedInventory\obj\Debug\net6.0\DiscountedInventory.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise14\DiscountedInventory\obj\Debug\net6.0\ref\DiscountedInventory.dll
