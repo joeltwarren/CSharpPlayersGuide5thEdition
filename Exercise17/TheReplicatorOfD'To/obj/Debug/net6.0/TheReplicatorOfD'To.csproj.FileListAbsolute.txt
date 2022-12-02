@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise17\TheReplicatorOfD'To\bin\Debug\net6.0\TheReplicatorOfD'To.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise17\TheReplicatorOfD'To\bin\Debug\net6.0\TheReplicatorOfD'To.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise17\TheReplicatorOfD'To\bin\Debug\net6.0\TheReplicatorOfD'To.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise17\TheReplicatorOfD'To\bin\Debug\net6.0\TheReplicatorOfD'To.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise17\TheReplicatorOfD'To\bin\Debug\net6.0\TheReplicatorOfD'To.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise17\TheReplicatorOfD'To\obj\Debug\net6.0\TheReplicatorOfD'To.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise17\TheReplicatorOfD'To\obj\Debug\net6.0\TheReplicatorOfD'To.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise17\TheReplicatorOfD'To\obj\Debug\net6.0\TheReplicatorOfD'To.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise17\TheReplicatorOfD'To\obj\Debug\net6.0\TheReplicatorOfD'To.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise17\TheReplicatorOfD'To\obj\Debug\net6.0\TheReplicatorOfD'To.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise17\TheReplicatorOfD'To\obj\Debug\net6.0\TheReplicatorOfD'To.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise17\TheReplicatorOfD'To\obj\Debug\net6.0\refint\TheReplicatorOfD'To.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise17\TheReplicatorOfD'To\obj\Debug\net6.0\TheReplicatorOfD'To.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise17\TheReplicatorOfD'To\obj\Debug\net6.0\TheReplicatorOfD'To.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise17\TheReplicatorOfD'To\obj\Debug\net6.0\ref\TheReplicatorOfD'To.dll
