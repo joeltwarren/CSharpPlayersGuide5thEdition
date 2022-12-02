@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise15\ThePrototype\bin\Debug\net6.0\ThePrototype.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise15\ThePrototype\bin\Debug\net6.0\ThePrototype.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise15\ThePrototype\bin\Debug\net6.0\ThePrototype.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise15\ThePrototype\bin\Debug\net6.0\ThePrototype.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise15\ThePrototype\bin\Debug\net6.0\ThePrototype.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise15\ThePrototype\obj\Debug\net6.0\ThePrototype.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise15\ThePrototype\obj\Debug\net6.0\ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise15\ThePrototype\obj\Debug\net6.0\ThePrototype.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise15\ThePrototype\obj\Debug\net6.0\ThePrototype.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise15\ThePrototype\obj\Debug\net6.0\ThePrototype.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise15\ThePrototype\obj\Debug\net6.0\ThePrototype.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise15\ThePrototype\obj\Debug\net6.0\refint\ThePrototype.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise15\ThePrototype\obj\Debug\net6.0\ThePrototype.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise15\ThePrototype\obj\Debug\net6.0\ThePrototype.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise15\ThePrototype\obj\Debug\net6.0\ref\ThePrototype.dll
