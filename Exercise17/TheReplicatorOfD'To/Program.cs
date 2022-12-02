@@ -31,7 +31,7 @@
             Console.WriteLine("+++++++++++++++++++++++++++++++++++"); // used as a table line
             for (int index = 0; index < array1.Length; index++) // uses the array.lenght property of array1 to determine the number of loops for displaying
             {
-                Console.WriteLine($"Value{array1[index]: 000.} | position  {index} | Value{array2[index]: 000.}"); // I could have done this across but down was more interesting.
+                Console.WriteLine($"Value{array1[index]: 000.} | position  {index} | Value{array2[index]: 000.}"); // I could have done this across but down was more interesting
             }
             
 
