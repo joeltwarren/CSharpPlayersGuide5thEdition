@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise18\The Laws of Freach\bin\Debug\net6.0\The Laws of Freach.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise18\The Laws of Freach\bin\Debug\net6.0\The Laws of Freach.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise18\The Laws of Freach\bin\Debug\net6.0\The Laws of Freach.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise18\The Laws of Freach\bin\Debug\net6.0\The Laws of Freach.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise18\The Laws of Freach\bin\Debug\net6.0\The Laws of Freach.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise18\The Laws of Freach\obj\Debug\net6.0\The Laws of Freach.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise18\The Laws of Freach\obj\Debug\net6.0\The Laws of Freach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise18\The Laws of Freach\obj\Debug\net6.0\The Laws of Freach.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise18\The Laws of Freach\obj\Debug\net6.0\The Laws of Freach.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise18\The Laws of Freach\obj\Debug\net6.0\The Laws of Freach.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise18\The Laws of Freach\obj\Debug\net6.0\The Laws of Freach.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise18\The Laws of Freach\obj\Debug\net6.0\refint\The Laws of Freach.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise18\The Laws of Freach\obj\Debug\net6.0\The Laws of Freach.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise18\The Laws of Freach\obj\Debug\net6.0\The Laws of Freach.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise18\The Laws of Freach\obj\Debug\net6.0\ref\The Laws of Freach.dll
