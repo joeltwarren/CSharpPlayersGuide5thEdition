@@ -33,18 +33,27 @@
              * Loop until they get it right, then end the program.
              */
 
+            /* ++++ original code lines removed after updating it with a new method for asking for a range of numbers during exercise 19 taking a number ++++
             Console.WriteLine("Welcome to our Prototype! It's time to start hunter training.");
             Console.Write("Pilot please choose a number between 0 and 100: ");
             int pilotsChoice = Convert.ToInt32(Console.ReadLine()!); // convert users choice
-            while (pilotsChoice < 0 || pilotsChoice >100) // while will not exit until the user picks a number between 0 and 100
+            */
+
+            int pilotsChoice = AskForNumberInRange("Welcome to our Prototype! It's time to start hunter training.\n", 0, 100);
+            while (pilotsChoice < 0 || pilotsChoice > 100) // while will not exit until the user picks a number between 0 and 100
             {
                 Console.Write("Please choose a number between 0 and 100 pilot.");
                 pilotsChoice = Convert.ToInt32(Console.ReadLine()!);
             }
             Console.Clear();
+
+            /* ++++ original code lines removed after updating it with a new method for asking for a range of numbers during exercise 19 taking a number ++++
             Console.WriteLine("Hunter your opponent pilot has picked his number.");
             Console.Write("What is your guess between 0 and 100 to locate him?: ");
             int huntersChoice = Convert.ToInt32(Console.ReadLine()!); // convert users choice
+            */
+
+            int huntersChoice = AskForNumberInRange("Hunter your opponent pilot has picked his number.\n", 0, 100);
             while (huntersChoice != pilotsChoice) // while loop will not exit until the hunter finds the pilot
             {
                 if (huntersChoice > pilotsChoice) Console.WriteLine("Your guess is to high!");
@@ -53,6 +62,24 @@
                 huntersChoice = Convert.ToInt32(Console.ReadLine()!);
             }
             if (huntersChoice == pilotsChoice) Console.WriteLine("Hunter you have successfully tracked down your target congratulations!"); // game over pilot is located
+
+            /*------------------------------------------------------ Start of Methods ------------------------------------------------------ */
+
+            /// <summary>
+            /// Asks the user for a number within a range of numbers, if the entered number is out of the range it will ask until its not and then return the number.
+            /// </summary>
+
+            int AskForNumberInRange(string text, int min, int max)
+            {
+                Console.Write($"{text}Choose a number between {min} and {max}. ");
+                int userResponse = Convert.ToInt32(Console.ReadLine());
+                while (userResponse < min || userResponse > max)
+                {
+                    Console.WriteLine($"Choose a number between {min} and {max}.");
+                    userResponse = Convert.ToInt32(Console.ReadLine());
+                }
+                return userResponse;
+            }
         }
     }
 }
