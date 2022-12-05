@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise19\TakingANumber\bin\Debug\net6.0\TakingANumber.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise19\TakingANumber\bin\Debug\net6.0\TakingANumber.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise19\TakingANumber\bin\Debug\net6.0\TakingANumber.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise19\TakingANumber\bin\Debug\net6.0\TakingANumber.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise19\TakingANumber\bin\Debug\net6.0\TakingANumber.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise19\TakingANumber\obj\Debug\net6.0\TakingANumber.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise19\TakingANumber\obj\Debug\net6.0\TakingANumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise19\TakingANumber\obj\Debug\net6.0\TakingANumber.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise19\TakingANumber\obj\Debug\net6.0\TakingANumber.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise19\TakingANumber\obj\Debug\net6.0\TakingANumber.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise19\TakingANumber\obj\Debug\net6.0\TakingANumber.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise19\TakingANumber\obj\Debug\net6.0\refint\TakingANumber.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise19\TakingANumber\obj\Debug\net6.0\TakingANumber.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise19\TakingANumber\obj\Debug\net6.0\TakingANumber.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise19\TakingANumber\obj\Debug\net6.0\ref\TakingANumber.dll

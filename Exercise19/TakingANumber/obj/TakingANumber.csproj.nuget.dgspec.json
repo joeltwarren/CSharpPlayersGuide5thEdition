@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise 9\\TheFourSistersAndTheDuckbear\\TheFourSistersAndTheDuckbear.csproj": {}
+    "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise19\\TakingANumber\\TakingANumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise 9\\TheFourSistersAndTheDuckbear\\TheFourSistersAndTheDuckbear.csproj": {
+    "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise19\\TakingANumber\\TakingANumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise 9\\TheFourSistersAndTheDuckbear\\TheFourSistersAndTheDuckbear.csproj",
-        "projectName": "TheFourSistersAndTheDuckbear",
-        "projectPath": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise 9\\TheFourSistersAndTheDuckbear\\TheFourSistersAndTheDuckbear.csproj",
+        "projectUniqueName": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise19\\TakingANumber\\TakingANumber.csproj",
+        "projectName": "TakingANumber",
+        "projectPath": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise19\\TakingANumber\\TakingANumber.csproj",
         "packagesPath": "C:\\Users\\Joel Warren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise 9\\TheFourSistersAndTheDuckbear\\obj\\",
+        "outputPath": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise19\\TakingANumber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
