@@ -66,7 +66,7 @@ namespace HuntingTheManticore
              * 
              */
 
-            // some variables up top to utilize in the code below.
+            // some local variables up top to utilize in the code below.
             int round = 1;
             int currentCityHealth = 15;
             int maxCityHealth = 15;
