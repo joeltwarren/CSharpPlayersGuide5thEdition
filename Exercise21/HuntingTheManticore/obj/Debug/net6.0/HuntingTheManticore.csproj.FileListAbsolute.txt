@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise21\HuntingTheManticore\bin\Debug\net6.0\HuntingTheManticore.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise21\HuntingTheManticore\bin\Debug\net6.0\HuntingTheManticore.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise21\HuntingTheManticore\bin\Debug\net6.0\HuntingTheManticore.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise21\HuntingTheManticore\bin\Debug\net6.0\HuntingTheManticore.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise21\HuntingTheManticore\bin\Debug\net6.0\HuntingTheManticore.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise21\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise21\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise21\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise21\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise21\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise21\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise21\HuntingTheManticore\obj\Debug\net6.0\refint\HuntingTheManticore.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise21\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise21\HuntingTheManticore\obj\Debug\net6.0\HuntingTheManticore.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise21\HuntingTheManticore\obj\Debug\net6.0\ref\HuntingTheManticore.dll
