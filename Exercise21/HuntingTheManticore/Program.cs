@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace HuntingTheManticore
+﻿namespace HuntingTheManticore
 {
     internal class Program
     {
