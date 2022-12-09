@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise24\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise24\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise24\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise24\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise24\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise24\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise24\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise24\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise24\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise24\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise24\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise24\VinFletchersArrows\obj\Debug\net6.0\refint\VinFletchersArrows.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise24\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise24\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise24\VinFletchersArrows\obj\Debug\net6.0\ref\VinFletchersArrows.dll
