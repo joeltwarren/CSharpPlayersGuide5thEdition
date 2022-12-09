@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise22\SimulasSoup\bin\Debug\net6.0\SimulasSoup.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise22\SimulasSoup\bin\Debug\net6.0\SimulasSoup.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise22\SimulasSoup\bin\Debug\net6.0\SimulasSoup.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise22\SimulasSoup\bin\Debug\net6.0\SimulasSoup.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise22\SimulasSoup\bin\Debug\net6.0\SimulasSoup.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise22\SimulasSoup\obj\Debug\net6.0\SimulasSoup.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise22\SimulasSoup\obj\Debug\net6.0\SimulasSoup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise22\SimulasSoup\obj\Debug\net6.0\SimulasSoup.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise22\SimulasSoup\obj\Debug\net6.0\SimulasSoup.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise22\SimulasSoup\obj\Debug\net6.0\SimulasSoup.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise22\SimulasSoup\obj\Debug\net6.0\SimulasSoup.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise22\SimulasSoup\obj\Debug\net6.0\refint\SimulasSoup.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise22\SimulasSoup\obj\Debug\net6.0\SimulasSoup.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise22\SimulasSoup\obj\Debug\net6.0\SimulasSoup.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise22\SimulasSoup\obj\Debug\net6.0\ref\SimulasSoup.dll

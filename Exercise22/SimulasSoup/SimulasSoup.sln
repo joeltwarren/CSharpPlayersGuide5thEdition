@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulasSoup", "SimulasSoup.csproj", "{DB17CDF7-ED4A-49CE-9373-97903BBFD98F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB17CDF7-ED4A-49CE-9373-97903BBFD98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB17CDF7-ED4A-49CE-9373-97903BBFD98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB17CDF7-ED4A-49CE-9373-97903BBFD98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB17CDF7-ED4A-49CE-9373-97903BBFD98F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E97E5440-6A9B-4074-9A90-79294149825A}
+	EndGlobalSection
+EndGlobal
