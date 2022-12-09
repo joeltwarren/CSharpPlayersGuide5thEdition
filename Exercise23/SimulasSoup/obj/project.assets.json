@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise22\\SimulasSoup\\SimulasSoup.csproj",
+      "projectUniqueName": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise23\\SimulasSoup\\SimulasSoup.csproj",
       "projectName": "SimulasSoup",
-      "projectPath": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise22\\SimulasSoup\\SimulasSoup.csproj",
+      "projectPath": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise23\\SimulasSoup\\SimulasSoup.csproj",
       "packagesPath": "C:\\Users\\Joel Warren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise22\\SimulasSoup\\obj\\",
+      "outputPath": "C:\\Users\\Joel Warren\\OneDrive\\Documents\\CodingRepositories\\CSharpPlayersGuide5thEdition\\Exercise23\\SimulasSoup\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
