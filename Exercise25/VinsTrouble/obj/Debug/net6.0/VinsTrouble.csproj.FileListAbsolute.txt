@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise25\VinsTrouble\bin\Debug\net6.0\VinsTrouble.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise25\VinsTrouble\bin\Debug\net6.0\VinsTrouble.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise25\VinsTrouble\bin\Debug\net6.0\VinsTrouble.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise25\VinsTrouble\bin\Debug\net6.0\VinsTrouble.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise25\VinsTrouble\bin\Debug\net6.0\VinsTrouble.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise25\VinsTrouble\obj\Debug\net6.0\VinsTrouble.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise25\VinsTrouble\obj\Debug\net6.0\VinsTrouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise25\VinsTrouble\obj\Debug\net6.0\VinsTrouble.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise25\VinsTrouble\obj\Debug\net6.0\VinsTrouble.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise25\VinsTrouble\obj\Debug\net6.0\VinsTrouble.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise25\VinsTrouble\obj\Debug\net6.0\VinsTrouble.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise25\VinsTrouble\obj\Debug\net6.0\refint\VinsTrouble.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise25\VinsTrouble\obj\Debug\net6.0\VinsTrouble.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise25\VinsTrouble\obj\Debug\net6.0\VinsTrouble.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise25\VinsTrouble\obj\Debug\net6.0\ref\VinsTrouble.dll
