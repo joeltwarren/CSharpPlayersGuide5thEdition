@@ -106,6 +106,7 @@ namespace VinsTrouble
             /*------------------------------------------- Class Methods------------------------------------------- */
             /// <summary>
             /// This method is used to determine the price of an arrow
+            /// </summary>
             public double GetArrowPrice() 
             {
                 double arrowHeadPrice;
