@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise26\PropertiesOfArrows\bin\Debug\net6.0\PropertiesOfArrows.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise26\PropertiesOfArrows\bin\Debug\net6.0\PropertiesOfArrows.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise26\PropertiesOfArrows\bin\Debug\net6.0\PropertiesOfArrows.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise26\PropertiesOfArrows\bin\Debug\net6.0\PropertiesOfArrows.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise26\PropertiesOfArrows\bin\Debug\net6.0\PropertiesOfArrows.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise26\PropertiesOfArrows\obj\Debug\net6.0\PropertiesOfArrows.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise26\PropertiesOfArrows\obj\Debug\net6.0\PropertiesOfArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise26\PropertiesOfArrows\obj\Debug\net6.0\PropertiesOfArrows.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise26\PropertiesOfArrows\obj\Debug\net6.0\PropertiesOfArrows.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise26\PropertiesOfArrows\obj\Debug\net6.0\PropertiesOfArrows.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise26\PropertiesOfArrows\obj\Debug\net6.0\PropertiesOfArrows.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise26\PropertiesOfArrows\obj\Debug\net6.0\refint\PropertiesOfArrows.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise26\PropertiesOfArrows\obj\Debug\net6.0\PropertiesOfArrows.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise26\PropertiesOfArrows\obj\Debug\net6.0\PropertiesOfArrows.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise26\PropertiesOfArrows\obj\Debug\net6.0\ref\PropertiesOfArrows.dll
