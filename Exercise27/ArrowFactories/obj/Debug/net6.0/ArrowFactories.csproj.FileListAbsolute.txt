@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise27\ArrowFactories\bin\Debug\net6.0\ArrowFactories.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise27\ArrowFactories\bin\Debug\net6.0\ArrowFactories.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise27\ArrowFactories\bin\Debug\net6.0\ArrowFactories.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise27\ArrowFactories\bin\Debug\net6.0\ArrowFactories.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise27\ArrowFactories\bin\Debug\net6.0\ArrowFactories.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise27\ArrowFactories\obj\Debug\net6.0\ArrowFactories.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise27\ArrowFactories\obj\Debug\net6.0\ArrowFactories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise27\ArrowFactories\obj\Debug\net6.0\ArrowFactories.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise27\ArrowFactories\obj\Debug\net6.0\ArrowFactories.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise27\ArrowFactories\obj\Debug\net6.0\ArrowFactories.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise27\ArrowFactories\obj\Debug\net6.0\ArrowFactories.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise27\ArrowFactories\obj\Debug\net6.0\refint\ArrowFactories.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise27\ArrowFactories\obj\Debug\net6.0\ArrowFactories.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise27\ArrowFactories\obj\Debug\net6.0\ArrowFactories.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise27\ArrowFactories\obj\Debug\net6.0\ref\ArrowFactories.dll
