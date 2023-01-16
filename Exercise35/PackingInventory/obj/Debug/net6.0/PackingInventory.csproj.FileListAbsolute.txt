@@ -1,0 +1,15 @@
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise35\PackingInventory\bin\Debug\net6.0\PackingInventory.exe
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise35\PackingInventory\bin\Debug\net6.0\PackingInventory.deps.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise35\PackingInventory\bin\Debug\net6.0\PackingInventory.runtimeconfig.json
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise35\PackingInventory\bin\Debug\net6.0\PackingInventory.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise35\PackingInventory\bin\Debug\net6.0\PackingInventory.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise35\PackingInventory\obj\Debug\net6.0\PackingInventory.csproj.AssemblyReference.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise35\PackingInventory\obj\Debug\net6.0\PackingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise35\PackingInventory\obj\Debug\net6.0\PackingInventory.AssemblyInfoInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise35\PackingInventory\obj\Debug\net6.0\PackingInventory.AssemblyInfo.cs
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise35\PackingInventory\obj\Debug\net6.0\PackingInventory.csproj.CoreCompileInputs.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise35\PackingInventory\obj\Debug\net6.0\PackingInventory.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise35\PackingInventory\obj\Debug\net6.0\refint\PackingInventory.dll
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise35\PackingInventory\obj\Debug\net6.0\PackingInventory.pdb
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise35\PackingInventory\obj\Debug\net6.0\PackingInventory.genruntimeconfig.cache
+C:\Users\Joel Warren\OneDrive\Documents\CodingRepositories\CSharpPlayersGuide5thEdition\Exercise35\PackingInventory\obj\Debug\net6.0\ref\PackingInventory.dll
